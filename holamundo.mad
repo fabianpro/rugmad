@@ -1,0 +1,9 @@
+iniciar 
+    repetir 5 veces iniciar
+        mostrar "Este es un bucle"
+    finalizar
+
+    repetir 2 veces iniciar
+        mostrar "Este es OTRO bucle"
+    finalizar
+finalizar

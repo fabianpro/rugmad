@@ -1,0 +1,14 @@
+iniciar 
+    mostrar "Hola mundo" 
+
+    repetir 5 veces iniciar
+        mostrar "Este es un bucle"
+    finalizar
+
+    si 5 > 3 entonces iniciar
+        mostrar "Siiiiii"
+    finalizar
+    sino iniciar
+        mostrar "Nooooooo"
+    finalizar
+finalizar
